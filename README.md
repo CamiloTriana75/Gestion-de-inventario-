@@ -10,13 +10,7 @@ Este es un sistema diseñado para gestionar de manera eficiente el inventario de
 - **Reportes**: Generación de reportes detallados sobre el estado del inventario y las ventas.  
 - **Interfaz amigable**: Diseño intuitivo para una fácil navegación y uso.  
 
-## Requisitos del sistema
 
-- **Backend**: [Lenguaje y framework utilizado, por ejemplo, Python con Flask o Java con Spring].  
-- **Base de datos**: [Nombre de la base de datos, por ejemplo, MySQL, PostgreSQL].  
-- **Frontend**: [Tecnologías usadas, por ejemplo, HTML, CSS, JavaScript].  
-- **Servidor**: Opcional, se puede ejecutar en una máquina local.  
-- **Entorno de desarrollo**: [Por ejemplo, NetBeans, VS Code, etc.].  
 
 
 
